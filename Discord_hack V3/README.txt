@@ -9,3 +9,5 @@ Then open up the program. If you did it. Should Work.
 
 This is purely for demonstration/educational purposes. I am not responsible for any actions you take with this project.
 Use at you own risk
+
+and open Main.exe and open this 2.exe
